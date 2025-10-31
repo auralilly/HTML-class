@@ -33,7 +33,7 @@ h3{
 }
 
 /* STEP 7a: ATTRIBUTE Selector - Build a selector that targets any element with the attribute, 'lang', setting the border to '5px dotted red' */
-[lang]{
+[lang="fr"]{
 	border: 3px dotted orange;
 }
 /* STEP7b: Try some other regular expression type variations -
