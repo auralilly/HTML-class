@@ -22,7 +22,9 @@ h3{
 }
 
 /* STEP 5: ID Selector - Make another CSS rule that targets an element with the id 'robot', and sets the background-color to 'hotpink' */
-
+#robot{
+	background-color: hotpink;
+}
 
 /* STEP 6: UNIVERSAL Selector - Craft a selector that targets EVERY element and sets the border property to '3px solid lightblue' - be aware that this can slow page rendering as it is very resource intensive */
 
