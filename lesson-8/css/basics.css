@@ -39,6 +39,9 @@ h3{
 [lang="en"]{
 	border: 5px dashed blue;
 }
+a[href$=".pdf"]{
+color: red;
+}
 /* STEP7b: Try some other regular expression type variations -
 
 	[attr|="val"] - all elements with the attribute attr for which the value is exactly "val" or starts with "val-" (the trailing dash here handles language codes)
