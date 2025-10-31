@@ -18,7 +18,7 @@ h3{
 
 /* STEP 4: CLASS Selector - Build another CSS rule that targets all elements with the class 'threat' and sets the background-color to 'yellow' */
 .threat{
-	color: yellow;
+	background-color: yellow;
 }
 
 /* STEP 5: ID Selector - Make another CSS rule that targets an element with the id 'robot', and sets the background-color to 'hotpink' */
