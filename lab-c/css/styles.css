@@ -66,7 +66,7 @@ main a {
 	font-weight: bold;
 }
 /* STEP 6: PSEUDOCLASS Selector - Type a selector that targets A elements (hyperlinks) that are a decendent of the MAIN element (hint: see rule just above), and that are currently being hovered over by the mouse pointer - set the text-decoration to 'underline' and the color to orange */
-main:hover{
+a main:hover{
 	text-decoration: underline;
 	color: orange;
 	
@@ -83,7 +83,7 @@ p footer{
 }
 
 /* STEP 9: CHILD/DIRECT-DESCENDENT Selector - Assemble a CSS selector below that only targets P elements that are directly descended from a SECTION element, and set the text-indent property to '3em' */
-footer > p {
+p > section {
 text-indent: 3em;
 
 }
