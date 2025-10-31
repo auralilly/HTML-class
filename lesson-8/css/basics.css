@@ -3,6 +3,7 @@
 /* STEP 2a: Create a simple 'type' selector to style the H1 HTML element */
 h1 {
 	color: red;
+	font-family: sans-serif;
 }
 
 /* STEP 2b: Open and close a pair of braces that will encapsulate the CSS declarations */
