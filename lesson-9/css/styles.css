@@ -2,7 +2,7 @@
 
 /* STEP 2a: Add a base font to the HTML element using a font category (serif, sans-serif, monospace, cursive, or fantasy) */
 html{
-	font-family:serif;
+	font-family:cursive;
 }
 /* STEP 2b: Comment out the above declaration, and add below it a font-family value that consists of a list of web-safe fonts (a font stack) */
 
