@@ -2,10 +2,12 @@
 
 /* STEP 2a: Add a base font to the HTML element using a font category (serif, sans-serif, monospace, cursive, or fantasy) */
 html{
-	font-family:cursive;
+	font-family:sans-serif;
 }
 /* STEP 2b: Comment out the above declaration, and add below it a font-family value that consists of a list of web-safe fonts (a font stack) */
-
+html{
+	
+}
 /* STEP 13: Construct a declaration for the page text using the shorthand font syntax (font-style, font-variant, font-weight, font-stretch, font-size/line-height, and font-family.) */
 html {
 
